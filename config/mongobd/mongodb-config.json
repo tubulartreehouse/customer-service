@@ -1,0 +1,6 @@
+{
+    "mongodb":{
+        "server":"localhost:27017",
+        "database":"customer_db_dev"
+    }
+}

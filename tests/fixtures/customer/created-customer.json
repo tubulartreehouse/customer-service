@@ -1,0 +1,13 @@
+{
+    "_id": "5a5ea8fde43c771e4aa5ea06",
+    "firstName": "Joel",
+    "lastName": "Barkley",
+    "email": "joel.barkley@colorado.edu",
+    "phoneNumber": 7205197861,
+    "address": "1363 Pierce St Apt 6",
+    "city": "Lakewood",
+    "state": "Colorado",
+    "zipCode": 80214,
+    "country": "USA",
+    "__v": 0
+}
